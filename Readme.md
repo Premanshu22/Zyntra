@@ -6,7 +6,7 @@ A cinematic, scroll-driven gaming experience built with React, GSAP, and Tailwin
 
 ## 🌐 Live Demo
 
-🔗 
+🔗 https://zyntra-seven.vercel.app/
 
 ---
 
